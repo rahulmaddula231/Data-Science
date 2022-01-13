@@ -1,0 +1,51 @@
+,Name of movie,Year of release,watchtime,Movie Rating,Metascore,Reviews,Gross Collection
+0,The Shawshank Redemption,1994,142 ,9.3,80,"2,523,866",$28.34M
+1,The Godfather,1972,175 ,9.2,100,"1,737,634",$134.97M
+2,The Dark Knight,2008,152 ,9.0,84,"2,474,117",$534.86M
+3,The Godfather: Part II,1974,202 ,9.0,90,"1,205,727",$57.30M
+4,12 Angry Men,1957,96 ,9.0,96,"745,310",$4.36M
+5,The Lord of the Rings: The Return of the King,2003,201 ,8.9,94,"1,742,144",$377.85M
+6,Pulp Fiction,1994,154 ,8.9,94,"1,944,691",$107.93M
+7,Schindler's List,1993,195 ,8.9,94,"1,289,786",$96.90M
+8,Inception,2010,148 ,8.8,74,"2,218,492",$292.58M
+9,Spider-Man: No Way Home,2021,148 ,8.8,71,"377,121",****
+10,Fight Club,1999,139 ,8.8,66,"1,985,080",$37.03M
+11,The Lord of the Rings: The Fellowship of the Ring,2001,178 ,8.8,92,"1,763,391",$315.54M
+12,Forrest Gump,1994,142 ,8.8,82,"1,947,891",$330.25M
+13,"The Good, the Bad and the Ugly",1966,178 ,8.8,90,"729,607",$6.10M
+14,The Lord of the Rings: The Two Towers,2002,179 ,8.7,87,"1,574,389",$342.55M
+15,The Matrix,1999,136 ,8.7,73,"1,818,975",$171.48M
+16,Goodfellas,1990,146 ,8.7,90,"1,091,975",$46.84M
+17,Star Wars: Episode V - The Empire Strikes Back,1980,124 ,8.7,82,"1,226,067",$290.48M
+18,One Flew Over the Cuckoo's Nest,1975,133 ,8.7,84,"967,873",$112.00M
+19,Parasite,2019,132 ,8.6,96,"704,213",$53.37M
+20,Interstellar,2014,169 ,8.6,74,"1,670,157",$188.02M
+21,City of God,2002,130 ,8.6,79,"731,100",$7.56M
+22,Spirited Away,2001,125 ,8.6,96,"711,542",$10.06M
+23,Saving Private Ryan,1998,169 ,8.6,91,"1,317,863",$216.54M
+24,The Green Mile,1999,189 ,8.6,61,"1,227,903",$136.80M
+25,Life Is Beautiful,1997,116 ,8.6,59,"663,933",$57.60M
+26,Se7en,1995,127 ,8.6,65,"1,549,245",$100.13M
+27,The Silence of the Lambs,1991,118 ,8.6,85,"1,357,488",$130.74M
+28,Star Wars: Episode IV - A New Hope,1977,121 ,8.6,90,"1,297,636",$322.74M
+29,Hara-Kiri,1962,133 ,8.6,85,"51,339",****
+30,Seven Samurai,1954,207 ,8.6,98,"333,773",$0.27M
+31,It's a Wonderful Life,1946,130 ,8.6,89,"437,318",****
+32,Whiplash,2014,106 ,8.5,88,"783,805",$13.09M
+33,The Intouchables,2011,112 ,8.5,57,"813,276",$13.18M
+34,The Prestige,2006,130 ,8.5,66,"1,268,429",$53.09M
+35,The Departed,2006,151 ,8.5,85,"1,262,344",$132.38M
+36,The Pianist,2002,150 ,8.5,85,"786,917",$32.57M
+37,Gladiator,2000,155 ,8.5,67,"1,425,836",$187.71M
+38,American History X,1998,119 ,8.5,62,"1,081,024",$6.72M
+39,The Usual Suspects,1995,106 ,8.5,77,"1,044,064",$23.34M
+40,Léon: The Professional,1994,110 ,8.5,64,"1,103,312",$19.50M
+41,The Lion King,1994,88 ,8.5,88,"1,002,288",$422.78M
+42,Terminator 2: Judgment Day,1991,137 ,8.5,75,"1,049,974",$204.84M
+43,Cinema Paradiso,1988,155 ,8.5,80,"249,849",$11.99M
+44,Grave of the Fireflies,1988,89 ,8.5,94,"259,065",****
+45,Back to the Future,1985,116 ,8.5,87,"1,135,767",$210.61M
+46,Once Upon a Time in the West,1968,165 ,8.5,80,"318,779",$5.32M
+47,Psycho,1960,109 ,8.5,97,"641,902",$32.00M
+48,Rear Window,1954,112 ,8.5,100,"472,910",$36.76M
+49,Casablanca,1942,102 ,8.5,100,"550,829",$1.02M
